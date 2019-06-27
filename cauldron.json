@@ -1,0 +1,39 @@
+{
+  "name": "CauldronTemplate",
+  "nativeApps": [
+    {
+      "name": "CauldronTemplateApp",
+      "platforms": [
+        {
+          "name": "android",
+          "versions": [
+            {
+              "name": "1000.0.0",
+              "binary": null,
+              "codePush": {},
+              "container": {
+                "jsApiImpls": [],
+                "miniApps": [
+                  "https://baee4985cddb7005aebdaffe5e82ca8e4fcb288e@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#8d5cfcee20084e055f3dc0c55e320876d299cfd4"
+                ],
+                "nativeDeps": [
+                  "react-native@0.59.2"
+                ],
+                "miniAppsBranches": [
+                  "https://baee4985cddb7005aebdaffe5e82ca8e4fcb288e@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#master"
+                ],
+                "ernVersion": "0.30.0"
+              },
+              "isReleased": false,
+              "nativeDeps": [],
+              "yarnLocks": {},
+              "containerVersion": "0.0.0"
+            }
+          ],
+          "containerVersion": "0.0.0"
+        }
+      ]
+    }
+  ],
+  "schemaVersion": "3.0.0"
+}

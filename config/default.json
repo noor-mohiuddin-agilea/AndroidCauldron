@@ -1,0 +1,14 @@
+{
+  "manifest": {
+    "override": {
+      "url": "https://baee4985cddb7005aebdaffe5e82ca8e4fcb288e@github.com/noor-mohiuddin-agilea/Manifest.git",
+      "type": "partial"
+    }
+  },
+  "start": {
+    "android": {
+      "packageName": "com.walmart.appname",
+      "activityName": "MainActivity"
+    }
+  }
+}

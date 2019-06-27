@@ -1,0 +1,18 @@
+{
+  "containerGenerator": {
+    "bypassYarnLock": true,
+    "pipeline": [
+      {
+        "name": "ern-container-publisher-git@^1.0.0",
+        "url": "https://baee4985cddb7005aebdaffe5e82ca8e4fcb288e@github.com/noor-mohiuddin-agilea/ContainerAndroid.git"
+      },
+      {
+        "name": "ern-container-publisher-maven@^1.0.0",
+        "url": "file://${WORKSPACE|HOME}/.m2/repository",
+        "extra": {
+          "artifactId": "local-container"
+        }
+      }
+    ]
+  }
+}
