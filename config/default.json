@@ -7,7 +7,7 @@
   },
   "start": {
     "android": {
-      "packageName": "com.walmart.appname",
+      "packageName": "com.agilea.appname",
       "activityName": "MainActivity"
     }
   }

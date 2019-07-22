@@ -8,7 +8,7 @@
           "name": "android",
           "versions": [
             {
-              "name": "1000.0.0",
+              "name": "DEV",
               "binary": null,
               "codePush": {},
               "container": {
@@ -22,7 +22,7 @@
                 "miniAppsBranches": [
                   "https://baee4985cddb7005aebdaffe5e82ca8e4fcb288e@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#master"
                 ],
-                "ernVersion": "0.30.0"
+                "ernVersion": "0.35.0"
               },
               "isReleased": false,
               "nativeDeps": [],
