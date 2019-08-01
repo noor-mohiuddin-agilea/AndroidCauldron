@@ -14,13 +14,13 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://beda9ddb0458fc40e36a41fbd0f46a1d4346a453@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#d030adc28d4e5af07e6709aa0eac2e943c0a060f"
+                  "https://cd54ae21d58006bc1ac3198844bafefcc00e342b@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#d030adc28d4e5af07e6709aa0eac2e943c0a060f"
                 ],
                 "nativeDeps": [
                   "react-native@0.59.2"
                 ],
                 "miniAppsBranches": [
-                  "https://beda9ddb0458fc40e36a41fbd0f46a1d4346a453@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#master"
+                  "https://cd54ae21d58006bc1ac3198844bafefcc00e342b@github.com/noor-mohiuddin-agilea/TemplateMiniApp.git#master"
                 ],
                 "ernVersion": "0.35.0"
               },
